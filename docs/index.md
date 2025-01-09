@@ -1,5 +1,4 @@
-
-**EABIAS** is an open and inclusive society for anyone interested in bioimage analysis. Established in 2024, it draws inspiration from the global initiatives of **GloBIAS** and **NEUBIAS**, fostering collaboration and innovation in the field.
+**Welcome to EABIAS (East Asia Bioimage Analysts’ Society)**
 
 ## 	ImageJ 顯微影像分析與程式設計課程 (2025)
 ***[活動海報](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***
