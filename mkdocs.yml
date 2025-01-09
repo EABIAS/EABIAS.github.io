@@ -1,0 +1,6 @@
+site_name: EABIAS
+nav:
+  - Home: index.md
+  - About: about.md
+
+
