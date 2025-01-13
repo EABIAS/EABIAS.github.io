@@ -2,6 +2,10 @@ site_name: EABIAS
 nav:
   - Home: index.md
   - About: about.md
+  - Events: events.md
+  - Learning: learning.md
+
+
 
 
 

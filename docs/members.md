@@ -1,8 +1,3 @@
-
-## EABIAS
-
-**EABIAS (East Asia Bioimage Analysts’ Society)** is an open and inclusive society for anyone interested in bioimage analysis. Established in 2024, it draws inspiration from the global initiatives of **GloBIAS** and **NEUBIAS**, fostering collaboration and innovation in the field.
-
 **Members (list using alphabetical order)**
 
 ## Cheng-Yu Huang (Kou)
@@ -42,7 +37,7 @@ Engineer, [LPIXEL Inc.](https://lpixel.net/en/?top)
 GitHub: [https://github.com/ksugar](https://github.com/ksugar)  
 E-mail: <ko.sugawara@riken.jp>
 
-## Shao-Chun Hsu (Peggy)
+## Shao-Chun, Peggy, Hsu  
 Assistant Research Scientist  
 NTU Consortium of Molecular Imaging Key Technology, Taiwan  
 GitHub: [https://github.com/peggyscshu](https://github.com/peggyscshu)  
