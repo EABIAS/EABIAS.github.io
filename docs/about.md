@@ -3,7 +3,7 @@
 **EABIAS (East Asia Bioimage Analysts’ Society)** is an open and inclusive society for anyone interested in bioimage analysis. Established in 2024, it draws inspiration from the global initiatives of **GloBIAS** and **NEUBIAS**, fostering collaboration and innovation in the field.  
      
 **Members listed in list in alphabetical order**  
-**If you want to join us to, please e-mail to <weichen.chu@gmail.com>**  
+**If you want to join us, please e-mail to <weichen.chu@gmail.com>**  
 
 **Chang, Jen-Chien**  
 >Expert Technician  
