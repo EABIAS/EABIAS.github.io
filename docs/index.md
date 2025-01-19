@@ -18,8 +18,8 @@ Visit our website for more information and updates on upcoming events.
 ## ImageJ Workshop in Taipei (2025)
 ![2025_workshop](images/2025_ImageJ_Workshop_Poster.png)
 
-***[活動海報](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***,
-***[報名連結](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***
+***[Event poster](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***,
+***[Registration link](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***
 
 
 

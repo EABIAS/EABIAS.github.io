@@ -10,7 +10,7 @@
 >TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
 >E-mail: <jen-chien.chang@riken.jp>
 
-**Chu, Wei-Chen**  
+**Chu, Wei-Chen (チュ　ウェイチェン)**  
 >R&D Scientist  
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
