@@ -42,13 +42,15 @@ plugins:
           default: true
           name: English
           build: true
+          site_name: "EABIAS (en)"
         - locale: zh-TW
-          name: 中文
+          name: Chinese
           build: true
+          site_name: "EABIAS (zh-TW)"
         - locale: ja
-          name: 日本語
+          name: Japanese
           build: true
-
+          site_name: "EABIAS (ja)"
 
 
 nav:
@@ -61,7 +63,7 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /
       lang: en
     - name: Chinese
       link: /zh-TW/
