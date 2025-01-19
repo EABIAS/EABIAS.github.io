@@ -37,9 +37,9 @@ plugins:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Events: events.md
-  - Learning: learning.md
+  - About EABIAS: about.md
+  - Activities: activities.md
+  - Resources: resources.md
 #  - Tags: tags.md
 
 #extra:
