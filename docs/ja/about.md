@@ -1,9 +1,9 @@
 # EABIAS
 
-**EABIAS (East Asia Bioimage Analysts’ Society)** is an open and inclusive society for anyone interested in bioimage analysis. Established in 2024, it draws inspiration from the global initiatives of **GloBIAS** and **NEUBIAS**, fostering collaboration and innovation in the field.  
-     
-**Members listed in list in alphabetical order**  
-**If you want to join us, please e-mail to <weichen.chu@gmail.com>**  
+**EABIAS（東アジア生物画像解析協会）**は、生物画像解析に関心のあるすべての人に開かれた包摂的な協会です。2024年に設立され、グローバルな取り組みである **GloBIAS** と **NEUBIAS** から着想を得て、この分野の協力と革新を促進することを目指しています。
+
+**メンバーリストはアルファベット順に掲載されています。**
+**私たちに参加したい場合は、<weichen.chu@gmail.com> までメールをお送りください。**
 
 **Chang, Jen-Chien**  
 >Expert Technician  
@@ -36,7 +36,7 @@
 >Personal Website: [https://site-4702296-3964-7090.mystrikingly.com/](https://site-4702296-3964-7090.mystrikingly.com/)  
 >E-mail: <peggyschsu@ntu.edu.tw>
 
-**Miura, Kota**  
+**Miura, Kota (三浦 耕太)**  
 >Freelance Bioimage Analyst  
 >Vice-Chair, Network of European Bioimage Analysts [(NEUBIAS)](https://eubias.org/NEUBIAS/)  
 >Steering committee, Global BioImage Analysts’ Society [(GloBIAS)](https://www.globias.org/)   
@@ -44,7 +44,7 @@
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>
 
-**Sugawara, Ko**  
+**Sugawara, Ko (菅原 皓)**  
 >Research Scientist  
 >RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
 >Engineer, [LPIXEL Inc.](https://lpixel.net/en/?top)   

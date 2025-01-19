@@ -17,10 +17,10 @@ theme:
 
 
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.preview
-    - navigation.instant.tracking
+  #  - navigation.instant
+  #  - navigation.instant.progress
+  #  - navigation.instant.preview
+  #  - navigation.instant.tracking
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
@@ -29,10 +29,26 @@ theme:
     - seatch.suggest
     - search.highlight
     - search.share
-
+    - content.code.annotation
+    - content.code.copy
+    
 plugins:
   - search
-  - tags
+  #- tags
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh-TW
+          name: 中文
+          build: true
+        - locale: ja
+          name: 日本語
+          build: true
+
 
 
 nav:
@@ -42,17 +58,17 @@ nav:
   - Resources: resources.md
 #  - Tags: tags.md
 
-#extra:
-#  alternate:
-#    - name: English
-#      link: /en/ 
-#      lang: en
-#    - name: Chinese
-#      link: /zh-TW/
-#      lang: zh-TW
-#    - name: Japanese
-#      link: /ja/
-#      lang: ja
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Chinese
+      link: /zh-TW/
+      lang: zh-TW
+    - name: Japanese
+      link: /ja/
+      lang: ja
 
 
 
