@@ -1,10 +1,58 @@
 site_name: EABIAS
+site_url: https://eabias.github.io/
+theme:
+  name: material
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.instant.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - seatch.suggest
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+  - tags
+
+
 nav:
   - Home: index.md
   - About: about.md
   - Events: events.md
   - Learning: learning.md
+#  - Tags: tags.md
 
+#extra:
+#  alternate:
+#    - name: English
+#      link: /en/ 
+#      lang: en
+#    - name: Chinese
+#      link: /zh-TW/
+#      lang: zh-TW
+#    - name: Japanese
+#      link: /ja/
+#      lang: ja
 
 
 
