@@ -1,3 +1,6 @@
+## GloBIAS 2025 in Kobe
+[https://bioimaging.riken.jp/globias2025/](https://bioimaging.riken.jp/globias2025/)
+
 ## GloBIAS Call4Help
 [https://www.globias.org/activities/call4help](https://www.globias.org/activities/call4help)
 

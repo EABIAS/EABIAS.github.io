@@ -13,6 +13,11 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 
 詳細情報や今後のイベントの最新情報については、当協会のウェブサイトをご覧ください。  
 
+## GloBIAS 2025 in Kobe, Japan
+![GloBIAS 2025](images/GloBIAS2025_advertising-poster_v1.jpg)
+
+[Event poster](https://bioimaging.riken.jp/files/GloBIAS2025_advertising-poster_v1.0.0.pdf)
+
 
 ## ImageJ ワークショップ（2025）台北にて (2025)
 ![2025_workshop](images/2025_ImageJ_Workshop_Poster.png)

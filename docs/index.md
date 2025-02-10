@@ -13,6 +13,12 @@ Contribute your expertise, learn from others, and become part of a growing commu
 
 Visit our website for more information and updates on upcoming events.  
 
+## GloBIAS 2025 in Kobe, Japan
+![GloBIAS 2025](images/GloBIAS2025_advertising-poster_v1.jpg)
+
+[Event poster](https://bioimaging.riken.jp/files/GloBIAS2025_advertising-poster_v1.0.0.pdf)
+
+
 ---------------------------------
 
 ## ImageJ Workshop in Taipei (2025)
