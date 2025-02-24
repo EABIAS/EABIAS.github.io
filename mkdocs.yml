@@ -34,6 +34,9 @@ theme:
     
 plugins:
   - search
+  - sitemap:
+        changefreq: daily
+        priority: 0.5
   #- tags
   - i18n:
       docs_structure: folder
