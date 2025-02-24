@@ -19,7 +19,7 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 [Event poster](https://bioimaging.riken.jp/files/GloBIAS2025_advertising-poster_v1.0.0.pdf)
 
 ## ImageJ Workshop in Taipei (2025)
-![2025_workshop](images/2025_ImageJ_Workshop_Poster.png)
+![2025_workshop](images/2025_ImageJ_Workshop_Poster_v2.png)
 
 ***[活動海報](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***,
 ***[報名連結](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***
