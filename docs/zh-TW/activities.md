@@ -9,5 +9,5 @@
 
 
 ## 過去活動
-## GloBIAS Call4Help
+### GloBIAS Call4Help
 [https://www.globias.org/activities/call4help](https://www.globias.org/activities/call4help)
