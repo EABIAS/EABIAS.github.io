@@ -1,9 +1,9 @@
 
 ## 	ImageJ 顯微影像分析與程式設計課程 (2025 in NTU, Taiwan)
 ***[活動海報](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***, 
-***[報名連結](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***, 
-***[教材連結](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)***,
-***[YouTube連結](https://www.youtube.com/watch?v=Mma--PgdsXg&list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s)***
+***[報名](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***, 
+***[教材](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)***,
+***[YouTube](https://www.youtube.com/@EABIAS)***
 
 
 ## GloBIAS 2025 in Kobe

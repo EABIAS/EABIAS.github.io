@@ -19,9 +19,9 @@ Visit our website for more information and updates on upcoming events.
 ![2025_workshop](images/2025_ImageJ_Workshop_Poster_v2.png)
 
 ***[Event poster](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link)***,
-***[Registration link](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***,
+***[Registration](https://docs.google.com/forms/d/e/1FAIpQLSezDJBtmgAjOasH5-3s5Sg2Fi4L837JW0q_KRdc75TsZTU3EQ/viewform)***,
 ***[Education materials](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)***, 
-***[YouTube link](https://www.youtube.com/watch?v=Mma--PgdsXg&list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s)***
+***[YouTube](https://www.youtube.com/@EABIAS)***
 
 ---------------------------------
 
