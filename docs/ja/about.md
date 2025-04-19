@@ -5,7 +5,7 @@
 **メンバーリストはアルファベット順に掲載されています。**
 **私たちに参加したい場合は、<eabias.github@gmail.com> までメールをお送りください。**
 
-**Chang, Jen-Chien**  
+**Chang, Jen-Chien (チャン　レンチエン)**  
 >Expert Technician  
 >TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
 >E-mail: <jen-chien.chang@riken.jp>
