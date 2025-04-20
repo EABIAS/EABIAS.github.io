@@ -4,8 +4,8 @@
 
 
 ## Bioimage tools/workflow database
-- [Bioimage Informatics Index](https://biii.eu/)  
-- [HereIm Database for Bioimaging Analysis Pipelines](https://hereimntuic.com/)
+- [Biii: Bioimage Informatics Index](https://biii.eu/)  
+- [HereIm: Database for Bioimaging Analysis Workflow](https://hereimntuic.com/)
 
 ## Learning Materials
 - [EABIAS YouTube Channel](https://www.youtube.com/@EABIAS)  

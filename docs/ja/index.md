@@ -16,10 +16,10 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 
 ---------------------------------
 ## News
-- GloBIAS Bioimage Analysis Conference 2025 in Kobe, opened the registration!  
+- GloBIAS 生物画像解析会議 2025 神戸, 登録受付中!  
 [Offical website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
 
-- ImageJ 顕微鏡画像解析とプログラミングコース 2025 in Taipei  
+- ImageJ 顕微鏡画像解析とプログラミングコース 2025 台北    
 [イベントポスター](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link), 
 [教材](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei),
 [YouTube 再生リスト](https://youtube.com/playlist?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&si=dzi0C2x5MDti2cIO)

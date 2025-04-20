@@ -4,8 +4,8 @@
 
 
 ## 生物画像解析ツール/作業工程 データベース
-- [Bioimage Informatics Index](https://biii.eu/)  
-- [HereIm Database for Bioimaging Analysis Pipelines](https://hereimntuic.com/)
+- [Biii: 生物画像情報学インデックス](https://biii.eu/)  
+- [HereIm: 生物画像解析作業工程のためのデータベース](https://hereimntuic.com/)
 
 ## 学習教材
 - [EABIAS YouTube](https://www.youtube.com/@EABIAS)  

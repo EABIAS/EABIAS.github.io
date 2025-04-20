@@ -4,8 +4,8 @@
 
 
 ## 生物影像工具／作業流程資料庫
-- [Bioimage Informatics Index](https://biii.eu/)  
-- [HereIm Database for Bioimaging Analysis Pipelines](https://hereimntuic.com/)
+- [Biii: 生物影像資訊學索引](https://biii.eu/)  
+- [HereIm: 生物影像分析流程資料庫](https://hereimntuic.com/)
 
 ## 學習資源
 - [EABIAS YouTube 頻道](https://www.youtube.com/@EABIAS)  
