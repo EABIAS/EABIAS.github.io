@@ -3,9 +3,9 @@
 - [Bioimage Data Analysis Workflows ‒ Advanced Components and Methods](https://link.springer.com/book/10.1007/978-3-030-76394-7)
 
 
-## 生物画像解析ツール/作業工程 データベース
+## 生物画像解析ツールと作業工程データベース
 - [Biii: 生物画像情報学インデックス](https://biii.eu/)  
-- [HereIm: 生物画像解析作業工程のためのデータベース](https://hereimntuic.com/)
+- [HereIm: 生物画像解析作業工程のデータベース](https://hereimntuic.com/)
 
 ## 学習教材
 - [EABIAS YouTube](https://www.youtube.com/@EABIAS)  
