@@ -8,6 +8,8 @@
 - [HereIm: 生物影像分析流程資料庫](https://hereimntuic.com/)
 
 ## 學習資源
+- [NFDI4BioImage 教材資料庫](https://nfdi4bioimage.github.io/training/readme.html)  
+- [中研院細生所影像核心 教材資料集](https://getupnote.com/share/notes/N6hHwRcoQthOYIy9a8LANC7GxmT2/f26750fe-fd45-4b39-8b55-8791fc8de73d)
+
 - [EABIAS YouTube 頻道](https://www.youtube.com/@EABIAS)  
 - [台大影像核心 YouTube 頻道](https://www.youtube.com/@imagingcore9084)  
-- [中研院細生所 影像核心學習資料收集庫](https://getupnote.com/share/notes/N6hHwRcoQthOYIy9a8LANC7GxmT2/f26750fe-fd45-4b39-8b55-8791fc8de73d)

@@ -16,8 +16,10 @@ Visit our website for more information and updates on upcoming events.
 ---------------------------------
 
 ## News  
+- GloBIAS Free Bioimage Analysis Support Event!  
+[GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
 - GloBIAS Bioimage Analysis Conference 2025 in Kobe, opened the registration!  
-[Offical website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)  
+[Official website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)  
 - ImageJ Microscopic Image Analysis and Macro Programming 2025 in Taipei    
 [Event poster](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link), 
 [Training materials](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei), 

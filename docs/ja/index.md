@@ -16,8 +16,11 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 
 ---------------------------------
 ## News
+- GloBIAS 無料生物画像解析サポートイベント!  
+[GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
+
 - GloBIAS 生物画像解析会議 2025 神戸, 登録受付中!  
-[Offical website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+[公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
 
 - ImageJ 顕微鏡画像解析とプログラミングコース 2025 台北    
 [イベントポスター](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link), 

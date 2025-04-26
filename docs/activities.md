@@ -1,6 +1,6 @@
 
 ## GloBIAS Bioimage Analysis Conference 2025 in Kobe 
-- [Offical Website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+- [Official](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
 ![GloBIAS 2025](images/GloBIAS2025_advertising-poster_v1p32.jpg)
 
 ---------------------------------
