@@ -16,11 +16,11 @@ Visit our website for more information and updates on upcoming events.
 ---------------------------------
 
 ## News  
+- NIU Open Software Week: Animals in Motion/ BrainGlobe/ Big Imaging Data  
+[Registration](https://neuroinformatics.dev/open-software-week/)  
+
 - GloBIAS Free Bioimage Analysis Support Event!  
 [GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
+
 - GloBIAS Bioimage Analysis Conference 2025 in Kobe, opened the registration!  
 [Official website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)  
-- ImageJ Microscopic Image Analysis and Macro Programming 2025 in Taipei    
-[Event poster](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link), 
-[Training materials](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei), 
-[YouTube Playlist](https://youtube.com/playlist?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&si=dzi0C2x5MDti2cIO)

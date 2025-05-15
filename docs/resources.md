@@ -13,3 +13,9 @@
 
 - [EABIAS YouTube Channel](https://www.youtube.com/@EABIAS)  
 - [NTU imaging core YouTube Channel](https://www.youtube.com/@imagingcore9084)  
+
+## EABIAS Training Event
+- ImageJ Microscopic Image Analysis and Macro Programming 2025 in Taipei    
+[Event poster](https://drive.google.com/file/d/11DaEflREvSH5XQLByhorO5-ToM6Tu5g0/view?usp=drive_link), 
+[Training materials](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei), 
+[YouTube Playlist](https://youtube.com/playlist?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&si=dzi0C2x5MDti2cIO)
