@@ -1,4 +1,4 @@
-## Python for Bioimage Analysis -Watch Party & Discussion
+## EABIAS 視聴会＆ディスカッション: Python による生物画像解析  
 - [Links](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
 ![EABIAS_Watch_Party](/images/EABIAS_Watch_Party_2025.jpg)
 
