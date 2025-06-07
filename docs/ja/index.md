@@ -16,11 +16,15 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 
 ---------------------------------
 ## News
+- EABIAS 視聴会＆ディスカッション: Python による生物画像解析  
+[イベントリンク](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+- GloBIAS 生物画像解析会議 2025 神戸, 登録受付中!  
+[公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+
 - NIUオープンソースソフトウェアウィーク: 動物の運動/ BrainGlobe/ 大規模画像データ  
 [参加登録](https://neuroinformatics.dev/open-software-week/)  
 
 - GloBIAS 無料生物画像解析サポートイベント!  
 [GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
 
-- GloBIAS 生物画像解析会議 2025 神戸, 登録受付中!  
-[公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)

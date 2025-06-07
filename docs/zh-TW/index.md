@@ -15,11 +15,14 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 
 ---------------------------------
 ## News ##
+- EABIAS 生物影像分析觀影討論會  
+[活動連結](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+- GloBIAS 生物影像分析會議 2025 神戶, 開放註冊!  
+[官方網站](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe) 
+
 - NIU 開放軟體周: 動物動態/ BrainGlobe/ 大型影像數據    
 [活動註冊](https://neuroinformatics.dev/open-software-week/)  
 
 - GloBIAS 免費生物影像分析協助活動!  
 [GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
-
-- GloBIAS 生物影像分析會議 2025 神戶, 開放註冊!  
-[官方網站](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe) 
