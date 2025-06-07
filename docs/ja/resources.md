@@ -15,8 +15,10 @@
 - [HereIm: 生物画像解析作業工程のデータベース](https://hereimntuic.com/)
 
 ## 学習教材
+- [NEUBIAS 生物画像解析教材ライブラリ](https://neubias.github.io/training-resources/)  
 - [NFDI4BioImage 教材ライブラリ](https://nfdi4bioimage.github.io/training/readme.html)  
-- [中研院細生所 イメージングコア 教材リソース集](https://getupnote.com/share/notes/N6hHwRcoQthOYIy9a8LANC7GxmT2/f26750fe-fd45-4b39-8b55-8791fc8de73d)
+- [中研院細生所 イメージングコア 教材リソース集](https://getupnote.com/share/notes/N6hHwRcoQthOYIy9a8LANC7GxmT2/f26750fe-fd45-4b39-8b55-8791fc8de73d)  
+
 - [EABIAS YouTube](https://www.youtube.com/@EABIAS)  
 - [国立台湾大学 イメージングコア YouTube](https://www.youtube.com/@imagingcore9084)  
 
