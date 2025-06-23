@@ -1,19 +1,22 @@
 site_name: EABIAS
 site_url: https://eabias.github.io/
+
 theme:
   name: material
+  logo: images/EABIAS_LogoA-ol_s.png
   palette: 
-    # Palette toggle for dark mode
+    - scheme: default
+      primary: white # Change this
+      accent: blue    # Change this
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
     - scheme: slate
+      primary: black     # Change this
+      accent: cyan     # Change this
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
 
 
   features:
@@ -26,7 +29,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - seatch.suggest
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
     - search.highlight
     - search.share
     - content.code.annotation
@@ -72,6 +77,13 @@ extra:
       link: /ja/
       lang: ja
 
+extra_css:
+  - stylesheets/extra.css
 
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
 
 
