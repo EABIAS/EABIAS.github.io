@@ -3,20 +3,22 @@ site_url: https://eabias.github.io/
 
 theme:
   name: material
-  logo: images/EABIAS_LogoA-ol_s.png
+  logo: images/EABIAS_Logo_W.png
   palette: 
-    - scheme: default
-      primary: white # Change this
-      accent: blue    # Change this
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - scheme: slate
       primary: black     # Change this
       accent: cyan     # Change this
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+        
+    - scheme: default
+      primary: white # Change this
+      accent: blue    # Change this
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
 
 
   features:
