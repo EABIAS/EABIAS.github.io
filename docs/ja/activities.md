@@ -1,6 +1,6 @@
 ## EABIAS 視聴会＆討論: Python による生物画像解析  
 - [イベントリンク](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
-![EABIAS_Watch_Party](/images/EABIAS_Watch_Party_2025.jpg)
+![EABIAS_Watch_Party](images/EABIAS_Watch_Party_2025.jpg)
 
 ## GloBIAS 生物画像解析会議 2025 神戸
 - [公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
