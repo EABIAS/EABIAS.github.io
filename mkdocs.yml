@@ -59,6 +59,7 @@ nav:
   - About EABIAS: about.md
   - Activities: activities.md
   - Resources: resources.md
+  - Microscopy DB: microscopy_db.md
 #  - Tags: tags.md
 
 extra:
@@ -82,4 +83,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
-
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
