@@ -1,7 +1,8 @@
 
-Explore our comprehensive Events, Jobs, Tools, Training and Education databases powered by MicroscopyDB!
-
-Navigate: Use the filter and sort options at the top of each database for easy browsing. Need help? Check out the [User Guide](https://docs.google.com/document/d/1bsCziK7oXbrlcY-jYet41FkXrjS6lHVrM2Gc81Bp57s/edit?tab=t.0#heading=h.2wa24b1d2zds).
+Below is the [Events, Jobs, Tools, Training and Education] database powered by [MicroscopyDB](https://microscopydb.io/)!  
+If you have events, tools, training/education resources, or jobs to share, please [add them to the
+relevant MicroscopyDB databases](https://microscopydb.io/#add).  
+Filter and sort buttons are available at the top of the database [User Guide](https://docs.google.com/document/d/1bsCziK7oXbrlcY-jYet41FkXrjS6lHVrM2Gc81Bp57s/edit?tab=t.0#heading=h.2wa24b1d2zds).
 
 ![2025_workshop](images/Microscopy_DB_logo.jpg)
 

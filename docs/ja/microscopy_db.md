@@ -1,7 +1,8 @@
-MicroscopyDBを活用した包括的なイベント、求人、ツール、研修・教育データベースをご活用ください！
+以下は [MicroscopyDB](https://microscopydb.io/) が提供する【イベント、求人、ツール、トレーニング・教育】データベースです！
 
-ナビゲーション：各データベース上部のフィルターとソート機能を使用して簡単に閲覧できます。ヘルプが必要な場合は、[ユーザーガイド](https://docs.google.com/document/d/1bsCziK7oXbrlcY-jYet41FkXrjS6lHVrM2Gc81Bp57s/edit?tab=t.0#heading=h.2wa24b1d2zds)をご確認ください。
+イベント、ツール、トレーニング・教育リソース、または求人情報を共有したい場合は、[関連する MicroscopyDB データベースに追加](https://microscopydb.io/#add)してください。
 
+データベース上部にフィルターとソートボタンが用意されています。詳細は[ユーザーガイド](https://docs.google.com/document/d/1bsCziK7oXbrlcY-jYet41FkXrjS6lHVrM2Gc81Bp57s/edit?tab=t.0#heading=h.2wa24b1d2zds)をご参照ください。
 
 ![2025_workshop](images/Microscopy_DB_logo.jpg)
 
