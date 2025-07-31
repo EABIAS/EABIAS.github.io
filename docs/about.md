@@ -15,7 +15,7 @@
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
 >Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social)  
->E-mail: <weichen01@gate.sinica.edu.tw>
+>E-mail: <weichen01@as.edu.tw>
 
 **Huang, Cheng-Yu (Kou)**
 >Ph.D. Candicate  
@@ -30,7 +30,7 @@
 >E-mail: <qqhair@gate.sinica.edu.tw>
 
 **Hsu, Shao-Chun (Peggy)**  
->Assistant Research Scientist  
+>Associate Research Scientist  
 >NTU Consortium of Molecular Imaging Key Technology, Taiwan  
 >GitHub: [https://github.com/peggyscshu](https://github.com/peggyscshu)  
 >Personal Website: [https://site-4702296-3964-7090.mystrikingly.com/](https://site-4702296-3964-7090.mystrikingly.com/)  
@@ -38,8 +38,8 @@
 
 **Miura, Kota**  
 >Freelance Bioimage Analyst  
+>President, Global BioImage Analysts’ Society [(GloBIAS)](https://www.globias.org/)  
 >Vice-Chair, Network of European Bioimage Analysts [(NEUBIAS)](https://eubias.org/NEUBIAS/)  
->Steering committee, Global BioImage Analysts’ Society [(GloBIAS)](https://www.globias.org/)   
 >Social Media: [X (Twitter)](https://x.com/cmci_)  
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>

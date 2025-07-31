@@ -16,14 +16,12 @@ Visit our website for more information and updates on upcoming events.
 ---------------------------------
 
 ## News  
-- EABIAS Watch Party & Discussion: Python for Bioimage Analysis  
-[Activity link](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+- GloBIAS (Global BioImage Analysts' Society), open for member application!  
+[GloBIAS website](https://www.globias.org/), [Become a member](https://www.globias.org/about-globias/globias-association)
 
 - GloBIAS Bioimage Analysis Conference 2025 in Kobe, opened the registration!  
 [Official website](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)  
 
-- NIU Open Software Week: Animals in Motion/ BrainGlobe/ Big Imaging Data  
-[Registration](https://neuroinformatics.dev/open-software-week/)  
-
-- GloBIAS Free Bioimage Analysis Support Event!  
-[GloBIAS Free Help](https://www.globias.org/activities/globias-free-help)
+- EABIAS Watch Party & Discussion: Python for Bioimage Analysis  
+[Activity link](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
