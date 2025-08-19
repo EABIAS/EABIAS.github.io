@@ -3,7 +3,7 @@
 ---------------------------------
 EABIASは、生物画像解析に興味のあるすべての方々に向けた、オープンで包摂的なコミュニティです。
 
-## 目的：    
+### 目的：    
 - コミュニティ構築：生物画像解析に情熱を持つ科学者、エンジニア、開発者をつなぐ。  
 - 知識の共有：リソース、チュートリアル、イベントを提供し、生物画像解析コミュニティを支援する。  
 - ツールの開発：生物画像解析の課題に対応するオープンソースツールの作成と改良を促進する。  
@@ -16,6 +16,11 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 
 ---------------------------------
 ## News
+
+- <font color=#FF6600>GloBIAS 会議 第2回招集のお知らせ（締切：9月15日）</font>  
+[招待状](https://docs.google.com/document/d/1gLpdhXOvn5QPSrqnLACz9B8SPDGtGjeNldcEtfwgx3k/edit?usp=sharing), [参加登録](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe), 
+[日程案](https://docs.google.com/spreadsheets/d/1O_LUEHDqvo_F_qbUlBVTquKPp_L3aT0Dy-gq_OlX9Bs/edit?usp=sharing)
+
 
 - GloBIAS (Global BioImage Analysts' Society), 新規会員募集中!  
 [GloBIAS サイト](https://www.globias.org/), [会員登録](https://www.globias.org/about-globias/globias-association)

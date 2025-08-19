@@ -3,7 +3,7 @@
 ---------------------------------
 EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感興趣的人士加入。
 
-## 目標： 
+### 目標： 
 - 社群建立：聯繫對生物影像分析充滿熱情的科學家、工程師和開發者。  
 - 知識分享：提供資源、教程和活動，以促進生物影像社群的發展。  
 - 工具開發：推動開源工具的創建和改進，應對生物影像分析中的挑戰。  
@@ -15,6 +15,11 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 
 ---------------------------------
 ## News ##
+
+- <font color=#FF6600>GloBIAS 會議第二次招集通知（截止日期：9月15日） (deadline: 15th Sep.). </font>  
+[邀請函](https://docs.google.com/document/d/1gLpdhXOvn5QPSrqnLACz9B8SPDGtGjeNldcEtfwgx3k/edit?usp=sharing), [報名資訊](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe), 
+[日程草案](https://docs.google.com/spreadsheets/d/1O_LUEHDqvo_F_qbUlBVTquKPp_L3aT0Dy-gq_OlX9Bs/edit?usp=sharing)
+
 
 - GloBIAS (Global BioImage Analysts' Society), 新會員招募中!  
 [GloBIAS 網站](https://www.globias.org/), [會員申請](https://www.globias.org/about-globias/globias-association)
