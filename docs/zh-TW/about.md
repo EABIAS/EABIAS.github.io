@@ -17,6 +17,11 @@
 >Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social)  
 >E-mail: <weichen01@as.edu.tw>
 
+**陳永瓅**
+>Post-Doctoral Researcher  
+>RIKEN Center for Integrative Medical Sciences, Japan  
+>E-mail: <yung-li.chen@riken.jp>
+
 **黃承宇**
 >Ph.D. Candicate  
 >University of Cambridge  
