@@ -24,8 +24,20 @@
 }
 
 
+@media screen and (min-width: 76.25em) {
+    /* 隱藏左側邊欄 */
+    .md-sidebar--primary {
+        display: none;
+    }
+}
+
 /*.md-typeset .grid img:hover {
   transform: scale(1.03);
   box-shadow: 0 6px 15px rgba(0,0,0,0.25);
 }
+# 隱藏左側導覽邊欄 
+.md-sidebar--primary {
+    display: none;
+}
+
 */
