@@ -1,14 +1,37 @@
-## EABIAS 視聴会＆討論: Python による生物画像解析  
-- [イベントリンク](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
-![EABIAS_Watch_Party](images/EABIAS_Watch_Party_2025.jpg)
 
-## GloBIAS 生物画像解析会議 2025 神戸
-- [公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
-![GloBIAS 2025](images/GloBIAS2025_advertising-poster_v1p32.jpg)
+## 最近のイベント
 
-## ---------- 過去のイベント ----------
+<div class="grid cards" markdown>
 
-## ImageJ 顕微鏡画像解析とプログラミングコース 2025 台北 
-- [教材](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)  
-- [YouTube 再生リスト](https://youtube.com/playlist?list=PL_9oCBBWdG8mLVflK-MJ3YkUPmhwpKO1s&si=dzi0C2x5MDti2cIO)
-![2025_workshop](images/2025_EABIAS_workshop_poster.png)
+-   __[![EABIAS 視聴会＆討論: Python による生物画像解析](images/EABIAS_Watch_Party_2025.jpg)](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)__
+
+    ---
+
+    #### [EABIAS 視聴会＆討論: Python による生物画像解析](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+
+-   __[![GloBIAS 生物画像解析会議 2025 神戸](images/GloBIAS2025_advertising-poster_v1p32.jpg)](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)__
+
+    ---
+
+    #### [GloBIAS 生物画像解析会議 2025 神戸](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+
+</div>
+
+---
+
+## 過去のイベント
+
+<div class="grid cards" markdown>
+
+-   __[![ImageJ 課程 2025 台北](images/2025_EABIAS_workshop_poster.png)](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)__
+
+    ---
+
+    #### [ImageJ 顕微鏡画像解析とプログラミングコース 2025 台北](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)
+    
+-   <!-- 為了讓排版一致，您可以在這裡新增一個空的卡片，或者放入另一個過去的活動 -->
+    &nbsp; 
+
+</div>
+
