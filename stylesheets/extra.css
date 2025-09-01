@@ -4,7 +4,7 @@
 
 /* 定義卡片的基礎樣式和過渡動畫 */
 .md-typeset .grid.cards > ul > li {
-  border-radius: 8px; /* 增加圓角，看起來更柔和 */
+  border-radius: 10px; /* 增加圓角，看起來更柔和 */
   border: 1px solid #e0e0e0; /* 加上細邊框，增加立體感 */
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* 動畫效果 */
 }
@@ -13,15 +13,18 @@
 .md-typeset .grid.cards > ul > li:hover {
   transform: translateY(-10px); /* 向上移動 10px */
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15); /* 加上更深的陰影，營造懸浮感 */
+  border: 1px solid #fda500; /* 加上細邊框，增加立體感 */
 }
 
-/*
+
 .md-typeset .grid img {
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.md-typeset .grid img:hover {
+
+
+/*.md-typeset .grid img:hover {
   transform: scale(1.03);
   box-shadow: 0 6px 15px rgba(0,0,0,0.25);
 }
