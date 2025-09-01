@@ -82,8 +82,14 @@ markdown_extensions:
   - codehilite
   - toc:
       permalink: true
-
-markdown_extensions:
+# ------------------------------------
+  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+#markdown_extensions:
+#  - pymdownx.tabbed:
+#      alternate_style: true
+#  - pymdownx.superfences
