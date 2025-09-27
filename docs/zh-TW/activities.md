@@ -2,6 +2,14 @@
 
 <div class="grid cards" markdown>
 
+-   __[![Halfway to I2K 2025: 免費線上影像分析教學課程](images/I2K_2025.png)](https://www.i2kconference.org/)__
+
+    ---
+
+    #### [Halfway to I2K 2025: 免費線上影像分析教學課程](https://www.i2kconference.org/)
+
+
+
 -   __[![EABIAS Python 生物影像分析觀影討論會](images/EABIAS_Watch_Party_2025.jpg)](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)__
 
     ---

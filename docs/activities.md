@@ -2,6 +2,14 @@
 
 <div class="grid cards" markdown>
 
+-   __[![Halfway to I2K 2025: Free Online Tutorials on Image Analysis](images/I2K_2025.png)](https://www.i2kconference.org/)__
+
+    ---
+
+    #### [Halfway to I2K 2025: Free Online Tutorials on Image Analysis](https://www.i2kconference.org/)
+
+
+
 -   __[![Python for Bioimage Analysis -Watch Party & Discussion](images/EABIAS_Watch_Party_2025.jpg)](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)__
 
     ---

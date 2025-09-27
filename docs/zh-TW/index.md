@@ -16,16 +16,11 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 ---------------------------------
 ## News ##
 
-- <font color=#FF6600>GloBIAS 會議第二次招集通知（截止日期：9月15日） (deadline: 15th Sep.). </font>  
-[邀請函](https://docs.google.com/document/d/1gLpdhXOvn5QPSrqnLACz9B8SPDGtGjeNldcEtfwgx3k/edit?usp=sharing), [報名資訊](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe), 
-[日程草案](https://docs.google.com/spreadsheets/d/1O_LUEHDqvo_F_qbUlBVTquKPp_L3aT0Dy-gq_OlX9Bs/edit?usp=sharing)
-
+- Halfway to I2K 2025: 免費線上影像分析教學課程 (2025/11/17~19)  
+[I2K 網站](https://www.i2kconference.org/)
 
 - GloBIAS (Global BioImage Analysts' Society), 新會員招募中!  
 [GloBIAS 網站](https://www.globias.org/), [會員申請](https://www.globias.org/about-globias/globias-association)
-
-- GloBIAS 生物影像分析會議 2025 神戶, 開放註冊!  
-[官方網站](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe) 
 
 - EABIAS 生物影像分析觀影討論會  
 [活動連結](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)

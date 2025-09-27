@@ -17,16 +17,11 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 ---------------------------------
 ## News
 
-- <font color=#FF6600>GloBIAS 会議 第2回招集のお知らせ（締切：9月15日）</font>  
-[招待状](https://docs.google.com/document/d/1gLpdhXOvn5QPSrqnLACz9B8SPDGtGjeNldcEtfwgx3k/edit?usp=sharing), [参加登録](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe), 
-[日程案](https://docs.google.com/spreadsheets/d/1O_LUEHDqvo_F_qbUlBVTquKPp_L3aT0Dy-gq_OlX9Bs/edit?usp=sharing)
-
+- Halfway to I2K 2025: 画像解析に関する無料オンラインチュートリアル (2025/11/17~19)  
+[I2K サイト](https://www.i2kconference.org/)
 
 - GloBIAS (Global BioImage Analysts' Society), 新規会員募集中!  
 [GloBIAS サイト](https://www.globias.org/), [会員登録](https://www.globias.org/about-globias/globias-association)
-
-- GloBIAS 生物画像解析会議 2025 神戸, 登録受付中!  
-[公式サイト](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
 
 - EABIAS 視聴会＆ディスカッション: Python による生物画像解析  
 [イベントリンク](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
