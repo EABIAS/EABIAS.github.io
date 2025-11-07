@@ -14,7 +14,7 @@
 >R&D Scientist  
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
->Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social), [LinkedIn](www.linkedin.com/in/weichen-chu)  
+>Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [Bluesky](https://bsky.app/profile/weichen01.bsky.social), [LinkedIn](https://www.linkedin.com/in/weichen-chu/)  
 >Personal Website: [weichenchu.com](https://weichenchu.com/)  
 >E-mail: <weichen01@as.edu.tw>
 
