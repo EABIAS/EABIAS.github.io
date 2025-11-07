@@ -5,17 +5,17 @@
 **メンバーリストはアルファベット順に掲載されています。**
 **私たちに参加したい場合は、<eabias.github@gmail.com> までメールをお送りください。**
 
-**Chang, Jen-Chien (チャン　レンチエン)**  
+**CHANG, Jen-Chien (チャン　レンチエン)**  
 >Expert Technician  
 >TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
 >E-mail: <jen-chien.chang@riken.jp>
 
-**Chen, Yung-Li**
+**CHEN, Yung-Li**
 >Post-Doctoral Researcher  
 >RIKEN Center for Integrative Medical Sciences, Japan  
 >E-mail: <yung-li.chen@riken.jp>
 
-**Chu, Wei-Chen (チュ　ウェイチェン)**  
+**CHU, Wei-Chen (チュ　ウェイチェン)**  
 >R&D Scientist  
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
@@ -23,50 +23,61 @@
 >Personal Website: [weichenchu.com](https://weichenchu.com/)  
 >E-mail: <weichen01@as.edu.tw>
 
-**Huang, Cheng-Yu (Kou)**
+**HUANG, Cheng-Yu (Kou)**
 >Ph.D. Candicate  
 >University of Cambridge  
 >Social media: [X (Twitter)](https://x.com/kou_huang)  
 >Personal Website: [koushouu.github.io](https://koushouu.github.io/)  
 >E-mail: <cyh37@cam.ac.uk>
 
-**Huang, Ji-Ying**  
+**HUANG, Ji-Ying**  
 >Project Scientist  
 >Imaging Core, Institute of Plant and Microbial Biology (IPMB), Academia Sinica, Taiwan  
 >E-mail: <qqhair@gate.sinica.edu.tw>
 
-**Hsu, Shao-Chun (Peggy)**  
+**HSU, Shao-Chun (Peggy)**  
 >Associate Research Scientist  
 >NTU Consortium of Molecular Imaging Key Technology, Taiwan  
 >GitHub: [https://github.com/peggyscshu](https://github.com/peggyscshu)  
 >Personal Website: [https://site-4702296-3964-7090.mystrikingly.com/](https://site-4702296-3964-7090.mystrikingly.com/)  
 >E-mail: <peggyschsu@ntu.edu.tw>
 
-**Kage, Azusa (鹿毛 あずさ)**  
+**KAGE, Azusa (鹿毛 あずさ)**  
 >Assistant Professor  
 >Muroran Institute of Technology, Japan  
 >Social media: [X (Twitter)](https://x.com/KageAzusa), [Bluesky](https://bsky.app/profile/azusakage.bsky.social)  
 >Lab Website: [kagelab.notion.site](https://kagelab.notion.site/)  
 >E-mail: <kage@muroran-it.ac.jp>
 
-**Miura, Kota (三浦 耕太)**  
+**KATO, Kagayaki (加藤 輝)**
+>RMC Assistant Professor
+>National Institute for Basic Biology (NIBB)  
+>Personal Website: [https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html](https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html)  
+>E-mail: <kkat@nibb.ac.jp>
+
+**MIURA, Kota (三浦 耕太)**  
 >Freelance Bioimage Analyst  
+>Visiting Professor, Graduate School of Frontier Biosciences, The university of Osaka, Japan  
 >President, Global BioImage Analysts’ Society [(GloBIAS)](https://www.globias.org/)  
 >Vice-Chair, Network of European Bioimage Analysts [(NEUBIAS)](https://eubias.org/NEUBIAS/)  
 >Social Media: [X (Twitter)](https://x.com/cmci_)  
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>
 
-**Sugawara, Ko (菅原 皓)**  
+**SUGAWARA, Ko (菅原 皓)**  
 >Research Scientist  
 >RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
 >Engineer, [LPIXEL Inc.](https://lpixel.net/en/?top)   
 >GitHub: [https://github.com/ksugar](https://github.com/ksugar)  
 >E-mail: <ko.sugawara@riken.jp>
 
-**Wen, Jung-Kun**  
+**WEN, Jung-Kun**  
 >Assistant Research Specialist  
 >Imaging Core, Institute of Biological Chemistry (IBC), Academia Sinica, Taiwan  
 >E-mail: <lunkung@gate.sinica.edu.tw>  
 
-
+**TSUKADA, Yuki (塚田 祐基)**
+>Senior Assistant Professor  
+>Department of Biosciences and Informatics, Keio University, Japan  
+>Personal Website: [https://fun.bio.keio.ac.jp/home/tsukada/](https://fun.bio.keio.ac.jp/home/tsukada/)  
+>E-mail: <tsukada@fun.bio.keio.ac.jp>  
