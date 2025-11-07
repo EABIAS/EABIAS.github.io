@@ -17,8 +17,6 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 ---------------------------------
 ## News
 
-Crick 生物画像解析会議 2025 ロンドン
-
 - Crick 生物画像解析会議 2025 ロンドン/オンライン  (2025/11/24~25)  
 [CBIAS サイト](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
 
