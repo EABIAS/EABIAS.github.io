@@ -16,13 +16,14 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 ---------------------------------
 ## News ##
 
+- Crick 生物影像分析會議 2025 倫敦/線上  (2025/11/24~25)  
+[CBIAS 網站](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
+
 - Halfway to I2K 2025: 免費線上影像分析教學課程 (2025/11/17~19)  
 [I2K 網站](https://www.i2kconference.org/)
 
 - GloBIAS (Global BioImage Analysts' Society), 新會員招募中!  
 [GloBIAS 網站](https://www.globias.org/), [會員申請](https://www.globias.org/about-globias/globias-association)
 
-- EABIAS 生物影像分析觀影討論會  
-[活動連結](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
 
 

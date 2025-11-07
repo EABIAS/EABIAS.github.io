@@ -9,19 +9,14 @@
     #### [Halfway to I2K 2025: Free Online Tutorials on Image Analysis](https://www.i2kconference.org/)
 
 
-
--   __[![Python for Bioimage Analysis -Watch Party & Discussion](images/EABIAS_Watch_Party_2025.jpg)](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)__
-
-    ---
-
-    #### [Python for Bioimage Analysis -Watch Party & Discussion](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
-
-
--   __[![GloBIAS Bioimage Analysis Conference 2025 in Kobe](images/GloBIAS2025_advertising-poster_v1p32.jpg)](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)__
+-   __[![Crick BioImage Analysis Symposium 2025 London](images/CBIAS_2025.png)](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)__
 
     ---
 
-    #### [GloBIAS Bioimage Analysis Conference 2025 in Kobe](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+    #### [Crick BioImage Analysis Symposium 2025 London](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
+
+
+
 
 </div>
 
@@ -30,6 +25,25 @@
 ## Past Events
 
 <div class="grid cards" markdown>
+
+
+
+-   __[![GloBIAS Bioimage Analysis Conference 2025 in Kobe](images/GloBIAS2025_advertising-poster_v1p32.jpg)](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)__
+
+    ---
+
+    #### [GloBIAS Bioimage Analysis Conference 2025 in Kobe](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)
+
+
+
+-   __[![Python for Bioimage Analysis -Watch Party & Discussion](images/EABIAS_Watch_Party_2025.jpg)](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)__
+
+    ---
+
+    #### [Python for Bioimage Analysis -Watch Party & Discussion](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
+
+
+
 
 -   __[![ImageJ Microscopic Image Analysis and Macro Programming 2025 Taipei](images/2025_EABIAS_workshop_poster.png)](https://github.com/EABIAS/2025-ImageJ-Micro-Image-Analysis-and-Programming_Taipei)__
 

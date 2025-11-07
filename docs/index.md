@@ -16,13 +16,11 @@ Visit our website for more information and updates on upcoming events.
 ---------------------------------
 
 ## News  
-
+- Crick BioImage Analysis Symposium 2025 London/Online  (2025/11/24~25)  
+[CBIAS website](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
 
 - Halfway to I2K 2025: Free Online Tutorials on Image Analysis (2025/11/17~19)  
 [I2K website](https://www.i2kconference.org/)
 
 - GloBIAS (Global BioImage Analysts' Society), open for member application!  
 [GloBIAS website](https://www.globias.org/), [Become a member](https://www.globias.org/about-globias/globias-association)
-
-- EABIAS Watch Party & Discussion: Python for Bioimage Analysis  
-[Activity link](https://docs.google.com/document/d/14mRHf7DGSZsFjaJhhjdbVZDhxe5GPa-8wV1EXQE5PuI/edit?usp=sharing)
