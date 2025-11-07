@@ -19,15 +19,15 @@
 >R&D Scientist  
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
->Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social) 
->Personal Website: [https://weichenchu.com/](https://weichenchu.com/)  
+>Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social), [LinkedIn](www.linkedin.com/in/weichen-chu)  
+>Personal Website: [weichenchu.com](https://weichenchu.com/)  
 >E-mail: <weichen01@as.edu.tw>
 
 **Huang, Cheng-Yu (Kou)**
 >Ph.D. Candicate  
 >University of Cambridge  
 >Social media: [X (Twitter)](https://x.com/kou_huang)  
->Personal Website: [https://koushouu.github.io/](https://koushouu.github.io/)  
+>Personal Website: [koushouu.github.io](https://koushouu.github.io/)  
 >E-mail: <cyh37@cam.ac.uk>
 
 **Huang, Ji-Ying**  
@@ -45,9 +45,8 @@
 **Kage, Azusa (鹿毛 あずさ)**  
 >Assistant Professor  
 >Muroran Institute of Technology, Japan  
->X: [https://x.com/KageAzusa](https://x.com/KageAzusa)    
->Bluesky: [https://bsky.app/profile/azusakage.bsky.social](https://bsky.app/profile/azusakage.bsky.social)  
->Lab Website: [https://kagelab.notion.site/](https://kagelab.notion.site/)  
+>Social media: [X (Twitter)](https://x.com/KageAzusa), [Bluesky](https://bsky.app/profile/azusakage.bsky.social)  
+>Lab Website: [kagelab.notion.site](https://kagelab.notion.site/)  
 >E-mail: <kage@muroran-it.ac.jp>
 
 **Miura, Kota (三浦 耕太)**  
