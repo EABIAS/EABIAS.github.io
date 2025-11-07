@@ -15,7 +15,7 @@
 >Imaging Core, Institute of Cellular and Organismic Biology (ICOB), Academia Sinica, Taiwan  
 >GitHub: [https://github.com/WeiChenChu](https://github.com/WeiChenChu)  
 >Social media: [X (Twitter)](https://x.com/WeiChenCHU1), [BlueSky](https://bsky.app/profile/weichen01.bsky.social)  
->Personal Website: [https://weichenchu.com/](https://weichenchu.com/)
+>Personal Website: [https://weichenchu.com/](https://weichenchu.com/)  
 >E-mail: <weichen01@as.edu.tw>
 
 **Chen, Yung-Li (陳永瓅)**
