@@ -41,6 +41,14 @@
 >Personal Website: [https://site-4702296-3964-7090.mystrikingly.com/](https://site-4702296-3964-7090.mystrikingly.com/)  
 >E-mail: <peggyschsu@ntu.edu.tw>
 
+**Kage, Azusa**  
+>Assistant Professor  
+>Muroran Institute of Technology, Japan  
+>X: [https://x.com/KageAzusa](https://x.com/KageAzusa)    
+>Bluesky: [https://bsky.app/profile/azusakage.bsky.social](https://bsky.app/profile/azusakage.bsky.social)  
+>Lab Website: [https://kagelab.notion.site/](https://kagelab.notion.site/)  
+>E-mail: <kage@muroran-it.ac.jp>
+
 **Miura, Kota**  
 >Freelance Bioimage Analyst  
 >President, Global BioImage Analysts’ Society [(GloBIAS)](https://www.globias.org/)  
