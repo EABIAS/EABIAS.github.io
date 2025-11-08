@@ -9,11 +9,11 @@
     #### [Halfway to I2K 2025: Free Online Tutorials on Image Analysis](https://www.i2kconference.org/)
 
 
--   __[![Crick BioImage Analysis Symposium 2025 London](images/CBIAS_2025.png)](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)__
+-   __[![Crick BioImage Analysis Symposium 2025 London/Online](images/CBIAS_2025.png)](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)__
 
     ---
 
-    #### [Crick BioImage Analysis Symposium 2025 London](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
+    #### [Crick BioImage Analysis Symposium 2025 London/Online](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
 
 
 

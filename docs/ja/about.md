@@ -26,6 +26,7 @@
 **HUANG, Cheng-Yu (Kou)**
 >Ph.D. Candicate  
 >University of Cambridge  
+>GitHub: [https://github.com/Koushouu](https://github.com/Koushouu)  
 >Social media: [X (Twitter)](https://x.com/kou_huang)  
 >Personal Website: [koushouu.github.io](https://koushouu.github.io/)  
 >E-mail: <cyh37@cam.ac.uk>
@@ -33,11 +34,13 @@
 **HUANG, Ji-Ying**  
 >Project Scientist  
 >Imaging Core, Institute of Plant and Microbial Biology (IPMB), Academia Sinica, Taiwan  
+>GitHub: [https://github.com/qqhair2000](https://github.com/qqhair2000)  
 >E-mail: <qqhair@gate.sinica.edu.tw>
 
 **HSU, Shao-Chun (Peggy)**  
->Associate Research Scientist  
+>Associate Research Expert   
 >NTU Consortium of Molecular Imaging Key Technology, Taiwan  
+>HereIm Database for Bioimage Analysis Workflow: [https://hereimntuic.com/](https://hereimntuic.com/)   
 >GitHub: [https://github.com/peggyscshu](https://github.com/peggyscshu)  
 >Personal Website: [https://site-4702296-3964-7090.mystrikingly.com/](https://site-4702296-3964-7090.mystrikingly.com/)  
 >E-mail: <peggyschsu@ntu.edu.tw>
