@@ -1,9 +1,14 @@
-![EABIAS_Logo](images/EABIAS_LogoA-W-T.png)
+![EABIAS_Logo](../images/EABIAS_LogoA-W-T.png)
 
 **EABIAS（東亞生物影像分析協會）**是一個開放且包容的協會，歡迎所有對生物影像分析感興趣的人士參與。該協會成立於2024年，靈感來自全球性倡議 **GloBIAS** 和 **NEUBIAS**，致力於促進該領域的合作與創新。  
 
 **會員名單依英文字母順序排列**  
 **如果您想加入我們，請發送電子郵件至 <eabias.github@gmail.com>**
+
+**AZUMA, Yusuke (東 裕介)**
+>Technical Scientist  
+>TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
+>E-mail: <yazuma@riken.jp>
 
 **CHANG, Jen-Chien (張仁乾)**  
 >Expert Technician  

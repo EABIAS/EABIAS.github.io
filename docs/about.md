@@ -5,6 +5,11 @@
 **Members listed in list in alphabetical order**  
 **If you want to join us, please e-mail to <eabias.github@gmail.com>**  
 
+**AZUMA, Yusuke**
+>Technical Scientist  
+>TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
+>E-mail: <yazuma@riken.jp>
+
 **CHANG, Jen-Chien**  
 >Expert Technician  
 >TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  

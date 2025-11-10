@@ -1,9 +1,14 @@
-![EABIAS_Logo](images/EABIAS_LogoA-W-T.png)
+![EABIAS_Logo](../images/EABIAS_LogoA-W-T.png)
 
 **EABIAS（東アジア生物画像解析協会）**は、生物画像解析に関心のあるすべての人に開かれた包摂的な協会です。2024年に設立され、グローバルな取り組みである **GloBIAS** と **NEUBIAS** から着想を得て、この分野の協力と革新を促進することを目指しています。
 
 **メンバーリストはアルファベット順に掲載されています。**
 **私たちに参加したい場合は、<eabias.github@gmail.com> までメールをお送りください。**
+
+**AZUMA, Yusuke (東 裕介)**
+>Technical Scientist  
+>TRIP Headquarters Research DX Foundation Team, RIKEN, Japan  
+>E-mail: <yazuma@riken.jp>
 
 **CHANG, Jen-Chien (チャン　レンチエン)**  
 >Expert Technician  
