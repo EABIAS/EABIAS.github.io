@@ -63,6 +63,11 @@
 >Personal Website: [https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html](https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html)  
 >E-mail: <kkat@nibb.ac.jp>
 
+**LI, Tong**
+>Senior software developer  
+>Wellcome Sanger Institute, Hinxton, UK  
+>E-mail: <tl10@sanger.ac.uk>
+
 **MIURA, Kota**  
 >Freelance Bioimage Analyst  
 >Visiting Professor, Graduate School of Frontier Biosciences, The university of Osaka, Japan  
@@ -71,7 +76,6 @@
 >Social Media: [X (Twitter)](https://x.com/cmci_)  
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>
-
 
 **SUGAWARA, Ko**  
 >Research Scientist  
