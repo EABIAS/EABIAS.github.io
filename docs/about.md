@@ -68,6 +68,14 @@
 >Wellcome Sanger Institute, Hinxton, UK  
 >E-mail: <tl10@sanger.ac.uk>
 
+**LING, Jane Yan To**
+>Bioimage Analyst  
+>Bioinformatics Core, Centre for Developmental Neurobiology, King's College London, United Kingdom  
+>GitHub: https://github.com/JaneYTLing  
+>LinkedIn: https://www.linkedin.com/in/jane-yan-to-ling/  
+>E-mail: <jane.ling@kcl.ac.uk>  
+
+
 **MIURA, Kota**  
 >Freelance Bioimage Analyst  
 >Visiting Professor, Graduate School of Frontier Biosciences, The university of Osaka, Japan  
