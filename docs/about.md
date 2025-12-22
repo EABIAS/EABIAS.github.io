@@ -85,6 +85,11 @@
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>
 
+**NISHIDA, Kozo**  
+>Technical Scientist
+>RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
+>E-mail: <knishida@riken.jp>
+
 **SUGAWARA, Ko**  
 >Research Scientist  
 >RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
