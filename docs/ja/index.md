@@ -1,4 +1,4 @@
-**EABIAS（東アジア生物画像解析協会）へようこそ**
+**EABIAS（東アジア生物画像解析社群）へようこそ**
 
 ---------------------------------
 EABIASは、生物画像解析に興味のあるすべての方々に向けた、オープンで包摂的なコミュニティです。
@@ -17,11 +17,9 @@ EABIASは、生物画像解析に興味のあるすべての方々に向けた�
 ---------------------------------
 ## News
 
-- Crick 生物画像解析会議 2025 ロンドン / オンライン  (2025/11/24~25)  
-[CBIAS サイト](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
-
-- Halfway to I2K 2025: 画像解析に関する無料オンラインチュートリアル (2025/11/17~19)  
-[I2K サイト](https://www.i2kconference.org/)
+- EABIAS 研修コース: Python and Napari  
+[イベントポスター](https://drive.google.com/file/d/1NQc1qXPrlgMnyInotHSEhI07P0bHihYI/view?usp=drive_link)
+, [登録受付（1月12日 Open）](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)  
 
 - GloBIAS (Global BioImage Analysts' Society), 新規会員募集中!  
 [GloBIAS サイト](https://www.globias.org/), [会員登録](https://www.globias.org/about-globias/globias-association)

@@ -2,6 +2,23 @@
 
 <div class="grid cards" markdown>
 
+-   __[![Python and Napari Microscopic: Image Analysis and Macro Programming @Taipei(1/12 Open)](../images/EABIAS_2016_Training.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)__
+
+    ---
+
+    #### [Python and Napari Microscopic: Image Analysis and Macro Programming @Taipei (1/12 Open)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)
+
+
+
+
+</div>
+
+---
+
+## Past Events
+
+<div class="grid cards" markdown>
+
 -   __[![Halfway to I2K 2025: Free Online Tutorials on Image Analysis](images/I2K_2025.png)](https://www.i2kconference.org/)__
 
     ---
@@ -14,17 +31,6 @@
     ---
 
     #### [Crick BioImage Analysis Symposium 2025 London/Online](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
-
-
-
-
-</div>
-
----
-
-## Past Events
-
-<div class="grid cards" markdown>
 
 
 

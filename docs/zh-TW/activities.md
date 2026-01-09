@@ -2,6 +2,21 @@
 
 <div class="grid cards" markdown>
 
+-   __[![Python and Napari 顯微影像分析與程式設計 (1/12開放報名)](../images/EABIAS_2016_Training.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)__
+
+    ---
+
+    #### [Python and Napari 顯微影像分析與程式設計 (1/12開放報名)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)
+
+
+</div>
+
+---
+
+## 過去活動
+
+<div class="grid cards" markdown>
+
 -   __[![Halfway to I2K 2025: 免費線上影像分析教學課程](../images/I2K_2025.png)](https://www.i2kconference.org/)__
 
     ---
@@ -16,14 +31,6 @@
 
     #### [Crick 生物影像分析會議 2025 倫敦/線上](https://www.crick.ac.uk/whats-on/crick-bioimage-analysis-symposium-2025)
 
-
-</div>
-
----
-
-## 過去活動
-
-<div class="grid cards" markdown>
 
 -   __[![GloBIAS 2025 神戶](../images/GloBIAS2025_advertising-poster_v1p32.jpg)](https://www.globias.org/activities/bioimage-analysis-conference-2025-in-kobe)__
 

@@ -1,6 +1,6 @@
 ![EABIAS_Logo](../images/EABIAS_LogoA-W-T.png)
 
-**EABIAS（東亞生物影像分析協會）**是一個開放且包容的協會，歡迎所有對生物影像分析感興趣的人士參與。該協會成立於2024年，靈感來自全球性倡議 **GloBIAS** 和 **NEUBIAS**，致力於促進該領域的合作與創新。  
+**EABIAS（東亞生物影像分析社群）**是一個開放且包容的協會，歡迎所有對生物影像分析感興趣的人士參與。該協會成立於2024年，靈感來自全球性倡議 **GloBIAS** 和 **NEUBIAS**，致力於促進該領域的合作與創新。  
 
 **會員名單依英文字母順序排列**  
 **如果您想加入我們，請發送電子郵件至 <eabias.github@gmail.com>**
@@ -83,6 +83,11 @@
 >Social Media: [X (Twitter)](https://x.com/cmci_)  
 >Company Website: [wiki.cmci.info](https://wiki.cmci.info/)  
 >E-mail: <kotamiura@gmail.com>
+
+**NISHIDA, Kozo (西田 孝三)**  
+>Technical Scientist
+>RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
+>E-mail: <knishida@riken.jp>
 
 **SUGAWARA, Ko (菅原 皓)**  
 >Research Scientist  
