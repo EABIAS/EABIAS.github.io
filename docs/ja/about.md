@@ -63,7 +63,7 @@
 >Personal Website: [https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html](https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html)  
 >E-mail: <kkat@nibb.ac.jp>
 
-**KOMOTO, Shinya**
+**KOMOTO, Shinya (甲本 真也)**
 >Team Leader  
 >Optical Microscopy Facility , Imaging Core Facility, Okinawa Institute of Science and Technology Graduate University
 >Advanced Bioimaging Support Platform (ABiS), Japan
