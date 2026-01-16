@@ -17,7 +17,7 @@ EABIAS 是一個開放且包容的社群，歡迎所有對生物影像分析感�
 ## News ##
 - EABIAS 訓練課程: Python and Napari 顯微影像分析與程式設計  
 [活動海報](https://drive.google.com/file/d/1NQc1qXPrlgMnyInotHSEhI07P0bHihYI/view?usp=drive_link)
-, [註冊(1/12開放)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)  
+, [報名網址(1/12開放)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)  
 
 - GloBIAS (Global BioImage Analysts' Society), 新會員招募中!  
 [GloBIAS 網站](https://www.globias.org/), [會員申請](https://www.globias.org/about-globias/globias-association)

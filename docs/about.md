@@ -63,6 +63,12 @@
 >Personal Website: [https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html](https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html)  
 >E-mail: <kkat@nibb.ac.jp>
 
+**KOMOTO, Shinya**
+>Team Leader  
+>Optical Microscopy Facility , Imaging Core Facility, Okinawa Institute of Science and Technology Graduate University
+>Advanced Bioimaging Support Platform (ABiS), Japan
+>E-mail: <komoto@nibb.ac.jp>
+
 **LI, Tong**
 >Senior software developer  
 >Wellcome Sanger Institute, Hinxton, UK  
@@ -86,7 +92,7 @@
 >E-mail: <kotamiura@gmail.com>
 
 **NISHIDA, Kozo**  
->Technical Scientist
+>Technical Scientist  
 >RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
 >E-mail: <knishida@riken.jp>
 

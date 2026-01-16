@@ -58,10 +58,16 @@
 >E-mail: <kage@muroran-it.ac.jp>
 
 **KATO, Kagayaki (加藤 輝)**
->RMC Assistant Professor
+>RMC Assistant Professor  
 >National Institute for Basic Biology (NIBB)  
 >Personal Website: [https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html](https://www.nibb.ac.jp/en/sections/members/kato_kagayaki.html)  
 >E-mail: <kkat@nibb.ac.jp>
+
+**KOMOTO, Shinya**
+>Team Leader  
+>Optical Microscopy Facility , Imaging Core Facility, Okinawa Institute of Science and Technology Graduate University
+>Advanced Bioimaging Support Platform (ABiS), Japan
+>E-mail: <komoto@nibb.ac.jp>
 
 **LI, Tong**
 >Senior software developer  
@@ -85,7 +91,7 @@
 >E-mail: <kotamiura@gmail.com>
 
 **NISHIDA, Kozo (西田 孝三)**  
->Technical Scientist
+>Technical Scientist  
 >RIKEN Center for Biosystems Dynamics Research (BDR), Japan  
 >E-mail: <knishida@riken.jp>
 
