@@ -64,9 +64,9 @@
 >E-mail: <kkat@nibb.ac.jp>
 
 **KOMOTO, Shinya**
->Team Leader  
->Optical Microscopy Facility , Imaging Core Facility, Okinawa Institute of Science and Technology Graduate University
->Advanced Bioimaging Support Platform (ABiS), Japan
+>Team Leader, OIST Core Facilities, Scientific Imaging Section  
+>Specially Appointed Associate Professor, Optics and Imaging Facility, National Institute for Basic Biology (NIBB)  
+>Advanced Bioimaging Support Platform (ABiS), JAPAN  
 >E-mail: <komoto@nibb.ac.jp>
 
 **LI, Tong**
