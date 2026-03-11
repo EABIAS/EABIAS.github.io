@@ -2,11 +2,11 @@
 
 <div class="grid cards" markdown>
 
--   __[![Python and Napari Microscopic: Image Analysis and Macro Programming @Taipei(1/12 Open)](../images/EABIAS_2016_Training.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)__
+-   __[![Python and Napari Microscopic: Image Analysis and Macro Programming 2026 @Taipei](../images/EABIAS_2016_Training.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)__
 
     ---
 
-    #### [Python and Napari Microscopic: Image Analysis and Macro Programming @Taipei (1/12 Open)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)
+    #### [Python and Napari Microscopic: Image Analysis and Macro Programming 2026 @Taipei](https://github.com/EABIAS/2026-Python-Napari-Image-Analysis_Taipei)
 
 
 

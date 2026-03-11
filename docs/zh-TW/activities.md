@@ -2,11 +2,11 @@
 
 <div class="grid cards" markdown>
 
--   __[![Python and Napari 顯微影像分析與程式設計 (1/12開放報名)](../images/EABIAS_2016_Training.jpg)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)__
+-   __[![Python and Napari 顯微影像分析與程式設計 2026 @台北](../images/EABIAS_2016_Training.jpg)](https://github.com/EABIAS/2026-Python-Napari-Image-Analysis_Taipei)__
 
     ---
 
-    #### [Python and Napari 顯微影像分析與程式設計 (1/12開放報名)](https://docs.google.com/forms/d/e/1FAIpQLScwtavOudf7kSQc446RiHc_3tc5QcI5liaVYhE1n2gtjs1bHg/closedform)
+    #### [Python and Napari 顯微影像分析與程式設計 2026 @台北](https://github.com/EABIAS/2026-Python-Napari-Image-Analysis_Taipei)
 
 
 </div>
